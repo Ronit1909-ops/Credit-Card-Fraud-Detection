@@ -23,3 +23,8 @@ Scaling: The Amount feature was scaled to standardize input values.
 Class Balancing: The dataset is highly imbalanced, so SMOTE (Synthetic Minority Over-sampling Technique) was applied to balance the classes.
 Train-Test Split: Data was divided into training and testing sets to evaluate model performance.
 </p>
+<h4>Key Challenges and Considerations</h4>
+<p>Imbalanced Dataset: Handling the severe class imbalance was critical for achieving meaningful results.
+Overfitting: Regularization techniques, such as dropout and batch normalization, were used to control overfitting.</p>
+<h4>Conclusion</h4>
+<p>This project highlights how deep learning can be leveraged to improve fraud detection accuracy in the financial industry. The model can assist financial institutions in minimizing losses from fraud while providing an enhanced level of security for consumers.</p>
